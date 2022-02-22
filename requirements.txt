@@ -5,6 +5,5 @@ numpy
 streamlit-aggrid
 imutils
 opencv-python-headless
-dlib-bin
 streamlit
 face-recognition
