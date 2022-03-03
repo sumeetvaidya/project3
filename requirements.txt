@@ -1,9 +1,0 @@
-pandas==1.3.4
-scikit-learn
-pandas-datareader
-numpy
-streamlit-aggrid
-imutils
-opencv-python-headless
-streamlit
-face-recognition
